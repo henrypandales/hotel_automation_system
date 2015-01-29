@@ -1,0 +1,70 @@
+
+	Hardware Configuration:
+
+             Processor : Pentium III or higher 
+            RAM : 128 MB or More 
+            Hard Disk : 20 GB or More 
+
+
+	Software Configuration:
+
+Operating System: Windows XP, VISTA, Linux. 
+Web Server: sql server 
+Front End: html 
+Scripts: php
+
+
+HOw TO RUn THE SOFTWARE:
+
+AS A MANAGER:
+
+1.First we have to register in the first page as manager.
+2.After that if you login as a manager it will show the home page.
+3.In home page we can choose reservation or bill or update or login page or contacts.
+4.If you reserve a room we can choose reservation.
+5.when we click submit in reservation it will check the availability of the room.
+  If the room is available it will show the form for customer information.
+6.we have to fill all the details in the form and submit.
+7.After that it will show how many rooms are availble with your romtype and with room numbers.
+8.we have to choose room numbers from there and submit.
+9.It will show your token with token number and name,surname,indate and outdate.
+10.From home page we can give bill option,it will generate your bill and 
+   it will show your bill and it will delete your token number from the database.
+11.From home page we can see update option,from this we can see Occupancy rate and 
+   update rent options.
+12.If we click occupancy rate it show how much percentage rooms are occupied.
+13.If we click update rent, it will show one page here we have to give roomtype(singleA/C,doubleA/C,single nonA/C,double nonA/C)
+   and we have to give room rent and submit,it will update the room rent.
+14.If we click on loginpage it will go to login page.
+15.If we click on contacts it will show the phone numbers.
+
+
+
+
+AS A RECEPTIONIST:
+
+
+1.First we have to register in the first page as receptionist.
+2.After that if you go as a receptionist it will show the home page.
+3.In home page we can choose reservation or bill or login page or contacts.
+4.If you reserve a room we can choose reservation.
+5.when we click submit in reservation it will check the availability of the room.
+  If the room is available it will show the form for customer information.
+6.we have to fill all the details in the form and submit.
+7.It will show how many rooms are availble with your romtype and with room numbers.
+8.we have to choose room numbers from there and submit.
+9.It will show your token with token number and name,surname,indate and outdate.
+10.From home page we can give bill option,it will generate your bill and 
+    it will show your bill and it will delete your token number from the database.
+11.If we click on loginpage it will go to login page.
+12.If we click on contacts it will show the phone numbers.
+
+
+
+AS A CATERING MANAGER:
+
+
+1.First we have to register in the first page as catering.
+2.After that if you go as a catering manager it will show the hotel menu.
+3.Here we have to choose some food items and we have to give token number.
+4.when we click on submit it will update the main bill.
